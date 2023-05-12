@@ -25,7 +25,7 @@ def sprint2(content: str, status: str = "c") -> None:
     current_time = datetime.now().strftime("%H:%M:%S")
     sys.stdout.write(f"{c}[GENERATED] {current_time} | {content}{Fore.RESET}\n")
 
-os.system("title mask#6666")
+os.system("title d0pe#6666")
 
 #inputs
 gang = r'''
